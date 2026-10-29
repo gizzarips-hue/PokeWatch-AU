@@ -1,2 +1,55 @@
 # PokeWatch-AU
 Terms of Service
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PokeWatch AU - Terms of Service</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+            color: #333;
+            background-color: #f9f9f9;
+        }
+        div.container {
+            background: #fff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+        h1 { color: #1a365d; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; }
+        h2 { color: #2c5282; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>PokeWatch AU Bot - Terms of Service</h1>
+        <p><strong>Last Updated:</strong> October 29, 2026</p>
+        
+        <p>Welcome to PokeWatch AU ("the Bot"). By adding the Bot to your server or interacting with it, you agree to comply with and be bound by these Terms of Service ("Terms").</p>
+
+        <h2>1. Acceptance of Terms</h2>
+        <p>By accessing or using PokeWatch AU, you affirm that you are at least 13 years of age and possess the legal authority to accept these Terms.</p>
+
+        <h2>2. Description of Service</h2>
+        <p>PokeWatch AU provides automated mapping, data analysis, and tracking notifications within Discord servers. The services are provided on an "as-is" basis.</p>
+
+        <h2>3. User Conduct</h2>
+        <p>You agree not to use the Bot for any unlawful purpose or in any way that violates Discord’s Terms of Service. Prohibited actions include attempting to exploit or disrupt the Bot's infrastructure, or automated scraping of data feeds.</p>
+
+        <h2>4. Data and Privacy</h2>
+        <p>We respect your data privacy. The bot only processes data necessary for operations (such as Server IDs and configuration settings). No private personal data is collected or stored.</p>
+
+        <h2>5. Limitation of Liability</h2>
+        <p>The developers of PokeWatch AU shall not be held liable for any damages, data loss, or server disruptions arising from the use or inability to use the Bot.</p>
+
+        <h2>6. Termination</h2>
+        <p>We reserve the right to terminate access or restrict user permissions from using the Bot at our sole discretion, without prior notice, for conduct that violates these Terms.</p>
+    </div>
+</body>
+</html>
